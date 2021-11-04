@@ -1,0 +1,15 @@
+.container_button {
+	width: 100%;
+	background: #ffffff;
+	border: 1px solid #705ed8;
+	box-sizing: border-box;
+	border-radius: 4px;
+	padding: 8px 16px;
+	font-family: Ubuntu;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 24px;
+	text-align: center;
+	color: #705ed8;
+}

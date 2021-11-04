@@ -1,0 +1,18 @@
+.content_user {
+	font-family: Trebuchet MS;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	line-height: 32px;
+	display: flex;
+	align-items: center;
+	color: #333333;
+	padding: 8px 16px;
+	margin-bottom: 16px;
+}
+.user_img {
+	margin-right: 16px;
+}
+.container_Menu {
+	padding-top: 80px;
+}

@@ -1,0 +1,56 @@
+.container_downPurse {
+	background: #f6f6f6;
+	border: 1px solid #cbcccd;
+	box-sizing: border-box;
+	border-radius: 12px;
+	display: flex;
+	flex-direction: column;
+	padding: 16px;
+	margin: 16px 0px;
+	cursor: pointer;
+}
+.conetn_downPurse {
+	display: flex;
+	justify-content: space-between;
+}
+.content_info {
+	display: flex;
+	flex-direction: row;
+}
+.content_text {
+	margin-left: 16px;
+}
+.down_name_price {
+	font-family: Trebuchet MS;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 16px;
+	display: flex;
+	align-items: center;
+	color: #b79a67;
+	width: 150px;
+}
+.price_down_purse {
+	font-family: Trebuchet MS;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	line-height: 24px;
+	display: flex;
+	align-items: center;
+	color: #333333;
+}
+.content_children_show {
+	display: flex;
+	flex-direction: column;
+}
+.display_none {
+	display: none;
+}
+.top {
+	transform: rotate(0deg);
+}
+.booton {
+	transform: rotate(180deg);
+}

@@ -1,0 +1,28 @@
+.container_buttonVariant {
+	border: 1px solid #f6dff7;
+	box-sizing: border-box;
+	border-radius: 0px 12px 12px 0px;
+	text-align: center;
+	padding: 16px 16px;
+}
+.container_buttonVariant:hover {
+	background: #f6dff7;
+	cursor: pointer;
+	border: 1px solid #f6dff7;
+	box-sizing: border-box;
+	border-radius: 0px 12px 12px 0px;
+}
+.container_buttonVariant_right {
+	border: 1px solid #f6dff7;
+	box-sizing: border-box;
+	border-radius: 12px 0px 0px 12px;
+	text-align: center;
+	padding: 16px 16px;
+}
+.container_buttonVariant_right:hover {
+	background: #f6dff7;
+	cursor: pointer;
+	border: 1px solid #f6dff7;
+	box-sizing: border-box;
+	border-radius: 12px 0px 0px 12px;
+}

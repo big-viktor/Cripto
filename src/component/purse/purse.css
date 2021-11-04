@@ -1,0 +1,16 @@
+.mani {
+	font-family: Ubuntu;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	line-height: 48px;
+	text-align: center;
+	color: #333333;
+}
+.container_navigation {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	margin-top: 16px;
+	margin-bottom: 16px;
+}
