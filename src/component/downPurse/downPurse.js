@@ -5,10 +5,10 @@ import ArrowDown from '../../img/ArrowDown.png'
 
 
 const DownPurse = ({ price, namePrice, src, children }) => {
-  const [isOpen, setIsOpen] = useState(false);
+  const [isOpen, setIsOpen] = useState(true);
   return (
     <>
-      <div className="container_downPurse">
+      <div className={isOpen ? 'container_downPurse' : 'container_downPurse_closed'}>
         <div className="conetn_downPurse" onClick={() => setIsOpen(!isOpen)}>
           <div className="content_info">
             <img src={src} alt="valute" />

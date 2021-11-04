@@ -1,0 +1,12 @@
+.container_button_color {
+	background: #e1eff8;
+	border-radius: 8px;
+	padding: 24px;
+	font-family: Trebuchet MS;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 16px;
+	text-align: center;
+	color: #333333;
+}

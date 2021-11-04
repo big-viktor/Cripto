@@ -3,10 +3,11 @@ import React, { } from 'react';
 import './buttonColor.css';
 
 
-const ButtonColor = ({ }) => {
+const ButtonColor = ({ name }) => {
     return (
         <>
-            <div className="">
+            <div className="container_button_color">
+                {name}
             </div>
         </>
 

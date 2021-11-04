@@ -9,6 +9,17 @@
 	margin: 16px 0px;
 	cursor: pointer;
 }
+.container_downPurse_closed {
+	background: #ffffff;
+	border: 1px solid #cbcccd;
+	box-sizing: border-box;
+	border-radius: 12px;
+	display: flex;
+	flex-direction: column;
+	padding: 16px;
+	margin: 16px 0px;
+	cursor: pointer;
+}
 .conetn_downPurse {
 	display: flex;
 	justify-content: space-between;

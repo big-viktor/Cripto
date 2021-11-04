@@ -1,0 +1,19 @@
+.container_buuton_icon {
+	background: #ffffff;
+	border: 1px solid #705ed8;
+	box-sizing: border-box;
+	border-radius: 4px;
+	padding: 8px 16px;
+	display: flex;
+	flex-direction: row;
+	margin: 16px 14px;
+}
+.content_name {
+	font-family: Ubuntu;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 24px;
+	color: #705ed8;
+	margin-left: 10px;
+}
