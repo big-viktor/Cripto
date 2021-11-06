@@ -1,0 +1,27 @@
+.currency_box {
+	padding: 8px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	margin: 8px;
+}
+.currency_box:hover {
+	background: #f6f6f6;
+	border-radius: 8px;
+	cursor: pointer;
+}
+.currency_box:active {
+	background: #f6f6f6;
+	border-radius: 8px;
+	cursor: pointer;
+}
+.currency_box_name {
+	font-family: Trebuchet MS;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 16px;
+	text-align: center;
+	margin-top: 8px;
+}

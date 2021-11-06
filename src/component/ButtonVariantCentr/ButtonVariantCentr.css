@@ -1,0 +1,21 @@
+.container_buttonVariant_center {
+	border: 1px solid #f6dff7;
+	box-sizing: border-box;
+	border-radius: 0px 0px 0px 0px;
+	text-align: center;
+	padding: 16px 16px;
+	font-family: Trebuchet MS;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 16px;
+	color: #705ed8;
+}
+.container_buttonVariant_center:hover {
+	background: #f6dff7;
+	cursor: pointer;
+	border: 1px solid #f6dff7;
+	box-sizing: border-box;
+	border-radius: 0px 0px 0px 0px;
+	color: #333333;
+}

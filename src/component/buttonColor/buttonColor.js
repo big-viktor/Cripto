@@ -4,14 +4,14 @@ import './buttonColor.css';
 
 
 const ButtonColor = ({ name }) => {
-    return (
-        <>
-            <div className="container_button_color">
-                {name}
-            </div>
-        </>
+  return (
+    <>
+      <div className="container_button_color">
+        {name}
+      </div>
+    </>
 
-    )
+  )
 }
 
 export default ButtonColor;

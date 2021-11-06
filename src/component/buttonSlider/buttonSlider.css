@@ -1,0 +1,14 @@
+.button-slider {
+	position: relative;
+	left: 0px;
+	cursor: pointer;
+	z-index: 100;
+	top: 55px;
+}
+.button-slider-right {
+	position: absolute;
+	cursor: pointer;
+	z-index: 100;
+	right: 0px;
+	top: 60px;
+}

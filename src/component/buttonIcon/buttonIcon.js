@@ -1,16 +1,24 @@
 
-import React, { Children, useState } from 'react';
+import React from 'react';
 import './buttonIcon.css';
-import ArrowDown from '../../img/ArrowDown.png'
 
 
-const ButtonIcon = ({ name, src }) => {
+const ButtonIcon = ({ name, src, isVariant }) => {
   return (
     <>
-      <div className="container_buuton_icon">
-        <img src={src} alt="icon" />
-        <div className="content_name">{name}</div>
-      </div>
+      {!isVariant ? (
+        <>
+          <div className="container_buuton_icon">
+            <img src={src} alt="icon" />
+            <div className="content_name">{name}</div>
+          </div>
+        </>
+      ) : (<>
+        <div className="container_buuton_icon">
+          <div className="content_name">{name}</div>
+        </div>
+      </>)}
+
     </>
 
   )
