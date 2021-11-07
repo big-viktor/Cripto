@@ -1,0 +1,9 @@
+.content_down {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+.margin_ {
+	margin-left: 64px;
+	width: 100%;
+}

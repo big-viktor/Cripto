@@ -10,3 +10,19 @@
 	text-align: center;
 	color: #333333;
 }
+.container_button_color_bacg {
+	background: #705ed8;
+	border: 1px solid #705ed8;
+	box-sizing: border-box;
+	border-radius: 4px;
+	font-family: Ubuntu;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 24px;
+	text-align: center;
+	color: #ffffff;
+	padding: 16px;
+	width: 100%;
+	margin-top: 20px;
+}

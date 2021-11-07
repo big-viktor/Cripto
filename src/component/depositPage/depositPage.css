@@ -14,3 +14,37 @@
 	flex-wrap: wrap;
 	justify-content: space-between;
 }
+.container_input_child {
+	display: flex;
+	flex-direction: row;
+	align-items: flex-end;
+}
+.container_info {
+	display: flex;
+	width: 384px;
+	max-width: 100%;
+	flex-direction: row;
+	padding: 0px 24px;
+	justify-content: space-between;
+	margin: 0 auto;
+}
+.min_suma {
+	font-family: Trebuchet MS;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 16px;
+	color: #333333;
+	text-align: left;
+	padding-top: 16px;
+}
+.valute_suma {
+	font-family: Trebuchet MS;
+	font-style: normal;
+	font-weight: 600;
+	font-size: 16px;
+	line-height: 16px;
+	color: #333333;
+	text-align: right;
+	padding-top: 16px;
+}

@@ -62,6 +62,71 @@
 .top {
 	transform: rotate(0deg);
 }
+.top_revers {
+	transform: rotate(0deg);
+	width: 30px;
+	height: 30px;
+}
 .booton {
 	transform: rotate(180deg);
+}
+.booton-revers {
+	width: 30px;
+	height: 30px;
+	transform: rotate(180deg);
+}
+.price_down {
+	font-family: Ubuntu;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 24px;
+	color: #333333;
+}
+.container_down {
+	background: #ffffff;
+	border: 1px solid #eeeeee;
+	box-sizing: border-box;
+	border-radius: 4px 4px 0px 0px;
+	margin: 16px 0px;
+}
+.content_container_down {
+	width: 100%;
+}
+.conetn_down {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;
+	width: 100%;
+}
+.container_down_closed {
+	border: 1px solid #705ed8;
+	box-sizing: border-box;
+	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+	margin: 16px 0px;
+	position: relative;
+	filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+	width: 100%;
+}
+.content_children_show_dowwn {
+	border: 1px solid #705ed8;
+	box-sizing: border-box;
+	background: #ffffff;
+	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+	border-radius: 0px 0px 8px 8px;
+	padding-left: 16px;
+	padding-top: 16px;
+	position: absolute;
+	width: 100%;
+}
+.title_down {
+	font-family: Trebuchet MS;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	line-height: 32px;
+	display: flex;
+	align-items: center;
+	color: #333333;
 }
