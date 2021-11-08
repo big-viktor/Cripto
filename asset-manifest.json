@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Cripto/static/css/main.06a551c8.chunk.css",
-    "main.js": "/Cripto/static/js/main.7a9672ef.chunk.js",
-    "main.js.map": "/Cripto/static/js/main.7a9672ef.chunk.js.map",
+    "main.css": "/Cripto/static/css/main.641f0f31.chunk.css",
+    "main.js": "/Cripto/static/js/main.1cd28973.chunk.js",
+    "main.js.map": "/Cripto/static/js/main.1cd28973.chunk.js.map",
     "runtime-main.js": "/Cripto/static/js/runtime-main.299afadc.js",
     "runtime-main.js.map": "/Cripto/static/js/runtime-main.299afadc.js.map",
     "static/css/2.0c8a8e4f.chunk.css": "/Cripto/static/css/2.0c8a8e4f.chunk.css",
@@ -12,14 +12,15 @@
     "static/js/3.e72a6141.chunk.js.map": "/Cripto/static/js/3.e72a6141.chunk.js.map",
     "index.html": "/Cripto/index.html",
     "static/css/2.0c8a8e4f.chunk.css.map": "/Cripto/static/css/2.0c8a8e4f.chunk.css.map",
-    "static/css/main.06a551c8.chunk.css.map": "/Cripto/static/css/main.06a551c8.chunk.css.map",
-    "static/js/2.fdd421a8.chunk.js.LICENSE.txt": "/Cripto/static/js/2.fdd421a8.chunk.js.LICENSE.txt"
+    "static/css/main.641f0f31.chunk.css.map": "/Cripto/static/css/main.641f0f31.chunk.css.map",
+    "static/js/2.fdd421a8.chunk.js.LICENSE.txt": "/Cripto/static/js/2.fdd421a8.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Cripto/static/media/trebuc.8dc5d2dd.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.299afadc.js",
     "static/css/2.0c8a8e4f.chunk.css",
     "static/js/2.fdd421a8.chunk.js",
-    "static/css/main.06a551c8.chunk.css",
-    "static/js/main.7a9672ef.chunk.js"
+    "static/css/main.641f0f31.chunk.css",
+    "static/js/main.1cd28973.chunk.js"
   ]
 }
