@@ -1,26 +1,27 @@
 {
   "files": {
-    "main.css": "/Cripto/static/css/main.6ed1ff9a.chunk.css",
-    "main.js": "/Cripto/static/js/main.73694ad4.chunk.js",
-    "main.js.map": "/Cripto/static/js/main.73694ad4.chunk.js.map",
-    "runtime-main.js": "/Cripto/static/js/runtime-main.299afadc.js",
-    "runtime-main.js.map": "/Cripto/static/js/runtime-main.299afadc.js.map",
-    "static/css/2.0c8a8e4f.chunk.css": "/Cripto/static/css/2.0c8a8e4f.chunk.css",
-    "static/js/2.fdd421a8.chunk.js": "/Cripto/static/js/2.fdd421a8.chunk.js",
-    "static/js/2.fdd421a8.chunk.js.map": "/Cripto/static/js/2.fdd421a8.chunk.js.map",
-    "static/js/3.e72a6141.chunk.js": "/Cripto/static/js/3.e72a6141.chunk.js",
-    "static/js/3.e72a6141.chunk.js.map": "/Cripto/static/js/3.e72a6141.chunk.js.map",
+    "main.css": "/Cripto/static/css/main.66924141.chunk.css",
+    "main.js": "/Cripto/static/js/main.e1799e31.chunk.js",
+    "main.js.map": "/Cripto/static/js/main.e1799e31.chunk.js.map",
+    "runtime-main.js": "/Cripto/static/js/runtime-main.22c382a1.js",
+    "runtime-main.js.map": "/Cripto/static/js/runtime-main.22c382a1.js.map",
+    "static/css/2.c4df08ad.chunk.css": "/Cripto/static/css/2.c4df08ad.chunk.css",
+    "static/js/2.65d35c11.chunk.js": "/Cripto/static/js/2.65d35c11.chunk.js",
+    "static/js/2.65d35c11.chunk.js.map": "/Cripto/static/js/2.65d35c11.chunk.js.map",
+    "static/js/3.23b0a9b8.chunk.js": "/Cripto/static/js/3.23b0a9b8.chunk.js",
+    "static/js/3.23b0a9b8.chunk.js.map": "/Cripto/static/js/3.23b0a9b8.chunk.js.map",
     "index.html": "/Cripto/index.html",
-    "static/css/2.0c8a8e4f.chunk.css.map": "/Cripto/static/css/2.0c8a8e4f.chunk.css.map",
-    "static/css/main.6ed1ff9a.chunk.css.map": "/Cripto/static/css/main.6ed1ff9a.chunk.css.map",
-    "static/js/2.fdd421a8.chunk.js.LICENSE.txt": "/Cripto/static/js/2.fdd421a8.chunk.js.LICENSE.txt",
+    "static/css/2.c4df08ad.chunk.css.map": "/Cripto/static/css/2.c4df08ad.chunk.css.map",
+    "static/css/main.66924141.chunk.css.map": "/Cripto/static/css/main.66924141.chunk.css.map",
+    "static/js/2.65d35c11.chunk.js.LICENSE.txt": "/Cripto/static/js/2.65d35c11.chunk.js.LICENSE.txt",
+    "static/media/slick-theme.css": "/Cripto/static/media/slick.c94f7671.ttf",
     "static/media/App.css": "/Cripto/static/media/trebuc.8dc5d2dd.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.299afadc.js",
-    "static/css/2.0c8a8e4f.chunk.css",
-    "static/js/2.fdd421a8.chunk.js",
-    "static/css/main.6ed1ff9a.chunk.css",
-    "static/js/main.73694ad4.chunk.js"
+    "static/js/runtime-main.22c382a1.js",
+    "static/css/2.c4df08ad.chunk.css",
+    "static/js/2.65d35c11.chunk.js",
+    "static/css/main.66924141.chunk.css",
+    "static/js/main.e1799e31.chunk.js"
   ]
 }
