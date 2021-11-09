@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Cripto/static/css/main.436af590.chunk.css",
-    "main.js": "/Cripto/static/js/main.4980b7b8.chunk.js",
-    "main.js.map": "/Cripto/static/js/main.4980b7b8.chunk.js.map",
+    "main.js": "/Cripto/static/js/main.b5f85092.chunk.js",
+    "main.js.map": "/Cripto/static/js/main.b5f85092.chunk.js.map",
     "runtime-main.js": "/Cripto/static/js/runtime-main.22c382a1.js",
     "runtime-main.js.map": "/Cripto/static/js/runtime-main.22c382a1.js.map",
     "static/css/2.c4df08ad.chunk.css": "/Cripto/static/css/2.c4df08ad.chunk.css",
@@ -22,6 +22,6 @@
     "static/css/2.c4df08ad.chunk.css",
     "static/js/2.65d35c11.chunk.js",
     "static/css/main.436af590.chunk.css",
-    "static/js/main.4980b7b8.chunk.js"
+    "static/js/main.b5f85092.chunk.js"
   ]
 }
