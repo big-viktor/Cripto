@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Cripto/static/css/main.93638c5d.chunk.css",
-    "main.js": "/Cripto/static/js/main.b5f85092.chunk.js",
-    "main.js.map": "/Cripto/static/js/main.b5f85092.chunk.js.map",
+    "main.css": "/Cripto/static/css/main.37cc0f30.chunk.css",
+    "main.js": "/Cripto/static/js/main.050d750f.chunk.js",
+    "main.js.map": "/Cripto/static/js/main.050d750f.chunk.js.map",
     "runtime-main.js": "/Cripto/static/js/runtime-main.22c382a1.js",
     "runtime-main.js.map": "/Cripto/static/js/runtime-main.22c382a1.js.map",
     "static/css/2.c4df08ad.chunk.css": "/Cripto/static/css/2.c4df08ad.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.23b0a9b8.chunk.js.map": "/Cripto/static/js/3.23b0a9b8.chunk.js.map",
     "index.html": "/Cripto/index.html",
     "static/css/2.c4df08ad.chunk.css.map": "/Cripto/static/css/2.c4df08ad.chunk.css.map",
-    "static/css/main.93638c5d.chunk.css.map": "/Cripto/static/css/main.93638c5d.chunk.css.map",
+    "static/css/main.37cc0f30.chunk.css.map": "/Cripto/static/css/main.37cc0f30.chunk.css.map",
     "static/js/2.65d35c11.chunk.js.LICENSE.txt": "/Cripto/static/js/2.65d35c11.chunk.js.LICENSE.txt",
     "static/media/slick-theme.css": "/Cripto/static/media/slick.c94f7671.ttf",
     "static/media/App.css": "/Cripto/static/media/trebuc.8dc5d2dd.ttf"
@@ -21,7 +21,7 @@
     "static/js/runtime-main.22c382a1.js",
     "static/css/2.c4df08ad.chunk.css",
     "static/js/2.65d35c11.chunk.js",
-    "static/css/main.93638c5d.chunk.css",
-    "static/js/main.b5f85092.chunk.js"
+    "static/css/main.37cc0f30.chunk.css",
+    "static/js/main.050d750f.chunk.js"
   ]
 }
